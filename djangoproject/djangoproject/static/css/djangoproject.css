@@ -1,0 +1,27 @@
+h1 {color: green}
+h2 {color: red}
+
+html, body {
+    padding-top: 70px;
+    height: 100%;
+}
+footer {
+    padding: 40px;
+    background-color: #092E20;
+    text-align: center;
+}
+
+.footer_link{
+    color: white;
+}
+
+img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+.contenuto{
+    min-height: 95%;
+    padding-bottom: 50px;
+}
